@@ -47,7 +47,6 @@ h2 {
     background: #f0f5f9;
     border-radius: 5px;
     box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.3) ;
-
 }
 
 .done {
@@ -59,4 +58,7 @@ h2 {
     opacity: 1;
 }
 
+#todo-container{
+    background-color: steelblue;
+}
 
